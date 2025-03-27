@@ -1,6 +1,6 @@
 ## Hi, I am Sabin 👋
-# Currently studying MITX in data analysis
-# Keen interest in programming
+Currently studying MITX in data analysis
+Keen interest in programming
 
 
 
