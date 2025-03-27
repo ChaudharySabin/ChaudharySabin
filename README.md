@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Sabin 👋
+# Currently studying MITX in data analysis
+# Keen interest in programming
+
+
 
 <!--
 **ChaudharySabin/ChaudharySabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
